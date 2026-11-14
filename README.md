@@ -78,6 +78,6 @@ model = joblib.load('crop_recommendation_model.pkl')
 
 The reported accuracy is based on the selected train-test split. Predictions are educational and experimental, and should not be treated as guaranteed agricultural advice.
 
-## 👩‍💻 Author
+## 👩‍💻 Project Information
 
-Created as a Machine Learning project using Python and Scikit-learn.
+Developed as a Machine Learning project using Python and Scikit-learn.

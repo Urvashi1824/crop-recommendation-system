@@ -56,7 +56,7 @@ Rainfall and Humidity were the most influential features in the trained Random F
 
 ## 📁 Project Files
 
-- `Crop_Recommendation.ipynb` – Complete project implementation and analysis.
+- `Crop_Recommendation_System.ipynb` – Complete project implementation and analysis.
 - `crop_recommendation_model.pkl` – Trained Random Forest model.
 
 ## ▶️ How to Use
